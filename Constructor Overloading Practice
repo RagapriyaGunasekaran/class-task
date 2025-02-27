@@ -18,5 +18,6 @@ class Book
     {
         Book a=new Book();
         Book b=new Book("A Retrived Information","O.henry");
+        Book c=new Book("Kabuliwala","Rabindranath Tagore");
     }
      }
